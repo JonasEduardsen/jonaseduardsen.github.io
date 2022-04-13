@@ -1,0 +1,69 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "Business Group Affiliation and Export Propensity in New Ventures"
+authors: [Jonas Eduardsen, Svetla Marinova, Bozidar Vlacic, Miguel Gonzales-Loueiro]
+date: 2021
+doi: "10.1108/S1745-886220210000015009"
+
+# Schedule page publish date (NOT publication's date).
+publishDate: 2022-04-10T18:32:01+02:00
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["6"]
+
+# Publication name and optional abbreviated publication name.
+publication: "Progress in International Business Research: The Multiple Dimensions of Institutional Complexity in International Business Research"
+publication_short: ""
+
+abstract: "The purpose of this study is to examine how business group (BG) affiliation influences the export propensity of new ventures (NVs). To help address the inconsistency of past research on the value of BG affiliation for firms seeking to expand their business abroad, the authors provide a contingency perspective by exploring how organizational characteristics and BG characteristics condition the value of BG affiliation. The authors analyze the impact of BG affiliation on the export propensity of NVs, including the factors that condition this impact, by using a sample of 2,874 European NVs. The primary contribution of this study is to determine the impact of BG affiliation on the export propensity of NVs, including the moderating effects of firm size on the BG affiliation–export propensity relationship. The findings show that the export propensity of NVs affiliated with BGs is significantly higher than for stand-alone NVs. However, the findings demonstrate that the impact of BG affiliation on export propen- sity depends on the network characteristics of the BG in terms of the geo- graphical dispersion of network ties. Consequently, the findings suggest that BG affiliation provides advantages for NV exporting only if it provides access to international inter-firm networks thus acting as a compensatory mechanism for liability of outsidership and liability of newness in foreign markets. In such cases, BG affiliation is a major resource capital that equipoises the somewhat limited financial resource provision for NV internationalization."
+
+# Summary. An optional shortened abstract.
+summary: ""
+
+tags: []
+categories: []
+featured: false
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+url_pdf:
+url_code:
+url_dataset:
+url_poster:
+url_project:
+url_slides:
+url_source:
+url_video:
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---

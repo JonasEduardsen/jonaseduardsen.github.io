@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://jonaseduardsen.github.io/sitemap.xml

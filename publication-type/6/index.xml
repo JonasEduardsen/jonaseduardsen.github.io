@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Academic</title>
+    <link>https://jonaseduardsen.github.io/publication-type/6/</link>
+      <atom:link href="https://jonaseduardsen.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Apr 2022 18:35:38 +0200</lastBuildDate>
+    <image>
+      <url>https://jonaseduardsen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>6</title>
+      <link>https://jonaseduardsen.github.io/publication-type/6/</link>
+    </image>
+    
+    <item>
+      <title>Export Exit: Literature Review and a Research Agenda</title>
+      <link>https://jonaseduardsen.github.io/publication/eduardsen2021b/</link>
+      <pubDate>Sun, 10 Apr 2022 18:35:38 +0200</pubDate>
+      <guid>https://jonaseduardsen.github.io/publication/eduardsen2021b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business Group Affiliation and Export Propensity in New Ventures</title>
+      <link>https://jonaseduardsen.github.io/publication/eduardsen2021/</link>
+      <pubDate>Sat, 10 Apr 2021 18:32:01 +0200</pubDate>
+      <guid>https://jonaseduardsen.github.io/publication/eduardsen2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covid-19, Global Value Chains, Risk, and Resilience</title>
+      <link>https://jonaseduardsen.github.io/publication/eduardsen2020-covid19/</link>
+      <pubDate>Fri, 10 Apr 2020 18:40:02 +0200</pubDate>
+      <guid>https://jonaseduardsen.github.io/publication/eduardsen2020-covid19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
