@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Academic</title>
+    <title>2 | Jonas Eduardsen</title>
     <link>https://jonaseduardsen.github.io/publication-type/2/</link>
       <atom:link href="https://jonaseduardsen.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
@@ -17,6 +17,22 @@
       <link>https://jonaseduardsen.github.io/publication/eduardsen2022/</link>
       <pubDate>Sun, 10 Apr 2022 18:23:48 +0200</pubDate>
       <guid>https://jonaseduardsen.github.io/publication/eduardsen2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The process of the process of internationalisation: cognitive and behavioural perspectives in small ventures</title>
+      <link>https://jonaseduardsen.github.io/publication/ejim_2020/</link>
+      <pubDate>Tue, 14 Apr 2020 10:44:45 +0200</pubDate>
+      <guid>https://jonaseduardsen.github.io/publication/ejim_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internationalisation and risk: Literature review, integrative framework and research agenda</title>
+      <link>https://jonaseduardsen.github.io/publication/ibr_2020/</link>
+      <pubDate>Tue, 14 Apr 2020 10:36:02 +0200</pubDate>
+      <guid>https://jonaseduardsen.github.io/publication/ibr_2020/</guid>
       <description></description>
     </item>
     

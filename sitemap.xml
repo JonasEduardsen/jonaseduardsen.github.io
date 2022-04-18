@@ -4,9 +4,9 @@
   
   
   <url>
-    <loc>https://jonaseduardsen.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://jonaseduardsen.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonaseduardsen.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jonaseduardsen.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -56,11 +56,23 @@
   <url>
     <loc>https://jonaseduardsen.github.io/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc></loc><lastmod>2020-04-14T10:44:45+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonaseduardsen.github.io/publication/ejim_2020/</loc><lastmod>2020-04-14T10:44:45+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonaseduardsen.github.io/publication/ibr_2020/</loc><lastmod>2020-04-14T10:36:02+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://jonaseduardsen.github.io/publication/eduardsen2020-covid19/</loc><lastmod>2020-04-10T18:40:02+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonaseduardsen.github.io/publication/value-cocreation_2019/</loc><lastmod>2019-04-14T10:54:39+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonaseduardsen.github.io/publication/igi-handbook_2019/</loc><lastmod>2019-04-14T10:51:34+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jonaseduardsen.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jonaseduardsen.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonaseduardsen.github.io/publication/pibr_2018/</loc><lastmod>2018-04-14T10:57:45+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jonaseduardsen.github.io/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

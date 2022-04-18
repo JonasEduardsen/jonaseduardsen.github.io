@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
+    <title>Publications | Jonas Eduardsen</title>
     <link>https://jonaseduardsen.github.io/publication/</link>
       <atom:link href="https://jonaseduardsen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
@@ -37,10 +37,50 @@
     </item>
     
     <item>
+      <title>The process of the process of internationalisation: cognitive and behavioural perspectives in small ventures</title>
+      <link>https://jonaseduardsen.github.io/publication/ejim_2020/</link>
+      <pubDate>Tue, 14 Apr 2020 10:44:45 +0200</pubDate>
+      <guid>https://jonaseduardsen.github.io/publication/ejim_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internationalisation and risk: Literature review, integrative framework and research agenda</title>
+      <link>https://jonaseduardsen.github.io/publication/ibr_2020/</link>
+      <pubDate>Tue, 14 Apr 2020 10:36:02 +0200</pubDate>
+      <guid>https://jonaseduardsen.github.io/publication/ibr_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Covid-19, Global Value Chains, Risk, and Resilience</title>
       <link>https://jonaseduardsen.github.io/publication/eduardsen2020-covid19/</link>
       <pubDate>Fri, 10 Apr 2020 18:40:02 +0200</pubDate>
       <guid>https://jonaseduardsen.github.io/publication/eduardsen2020-covid19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Value Co-Creation in Social Media Networks</title>
+      <link>https://jonaseduardsen.github.io/publication/value-cocreation_2019/</link>
+      <pubDate>Sun, 14 Apr 2019 10:54:39 +0200</pubDate>
+      <guid>https://jonaseduardsen.github.io/publication/value-cocreation_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Internationalization of SMEs: Strategic Choices Under a Cognitive Approach</title>
+      <link>https://jonaseduardsen.github.io/publication/igi-handbook_2019/</link>
+      <pubDate>Sun, 14 Apr 2019 10:51:34 +0200</pubDate>
+      <guid>https://jonaseduardsen.github.io/publication/igi-handbook_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internationalization through digitalization: The impact of E-Commerce usage on internationalization in small and medium-sized firm</title>
+      <link>https://jonaseduardsen.github.io/publication/pibr_2018/</link>
+      <pubDate>Sat, 14 Apr 2018 10:57:45 +0200</pubDate>
+      <guid>https://jonaseduardsen.github.io/publication/pibr_2018/</guid>
       <description></description>
     </item>
     
