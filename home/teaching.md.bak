@@ -1,0 +1,31 @@
+---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: portfolio
+
+# This file represents a page section.
+headless: true
+
+# ... Put Your Section Options Here (title etc.) ...
+title: Teaching
+subtitle: ''
+
+# Order that this section appears on the page.
+weight: 5
+
+content:
+  # Choose which content to display in the widget
+  filters:
+    # Folders to display content from
+    folders:
+      - teaching
+
+# Section design
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
+  # Choose a listing view
+  view: masonry
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: false
+---

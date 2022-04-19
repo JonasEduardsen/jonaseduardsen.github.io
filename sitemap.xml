@@ -38,6 +38,10 @@
   <url>
     <loc></loc><lastmod>2022-04-10T18:23:48+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://jonaseduardsen.github.io/project/example/</loc><lastmod>2021-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonaseduardsen.github.io/project/</loc><lastmod>2021-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://jonaseduardsen.github.io/publication/eduardsen2021/</loc><lastmod>2021-04-10T18:32:01+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2021-04-10T18:32:01+02:00</lastmod><changefreq>weekly</changefreq></url>
@@ -56,6 +60,8 @@
   <url>
     <loc>https://jonaseduardsen.github.io/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://jonaseduardsen.github.io/project/cbec/</loc><lastmod>2020-04-18T12:08:08+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc></loc><lastmod>2020-04-14T10:44:45+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jonaseduardsen.github.io/publication/ejim_2020/</loc><lastmod>2020-04-14T10:44:45+02:00</lastmod><changefreq>weekly</changefreq></url>
@@ -63,6 +69,8 @@
     <loc>https://jonaseduardsen.github.io/publication/ibr_2020/</loc><lastmod>2020-04-14T10:36:02+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jonaseduardsen.github.io/publication/eduardsen2020-covid19/</loc><lastmod>2020-04-10T18:40:02+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonaseduardsen.github.io/project/cogint/</loc><lastmod>2019-04-18T12:09:38+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jonaseduardsen.github.io/publication/value-cocreation_2019/</loc><lastmod>2019-04-14T10:54:39+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -74,8 +82,12 @@
   <url>
     <loc>https://jonaseduardsen.github.io/publication/pibr_2018/</loc><lastmod>2018-04-14T10:57:45+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://jonaseduardsen.github.io/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://jonaseduardsen.github.io/tag/decision-making/</loc><lastmod>2012-04-18T12:06:31+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://jonaseduardsen.github.io/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://jonaseduardsen.github.io/tag/internationalization/</loc><lastmod>2012-04-18T12:06:31+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://jonaseduardsen.github.io/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://jonaseduardsen.github.io/tag/networks/</loc><lastmod>2012-04-18T12:06:31+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonaseduardsen.github.io/project/sinet/</loc><lastmod>2012-04-18T12:06:31+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonaseduardsen.github.io/tag/smes/</loc><lastmod>2012-04-18T12:06:31+02:00</lastmod><changefreq>weekly</changefreq></url></urlset>

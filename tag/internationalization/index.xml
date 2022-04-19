@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internationalization | Jonas Eduardsen</title>
+    <link>https://jonaseduardsen.github.io/tag/internationalization/</link>
+      <atom:link href="https://jonaseduardsen.github.io/tag/internationalization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Internationalization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Apr 2012 12:06:31 +0200</lastBuildDate>
+    <image>
+      <url>https://jonaseduardsen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Internationalization</title>
+      <link>https://jonaseduardsen.github.io/tag/internationalization/</link>
+    </image>
+    
+    <item>
+      <title>SINET</title>
+      <link>https://jonaseduardsen.github.io/project/sinet/</link>
+      <pubDate>Wed, 18 Apr 2012 12:06:31 +0200</pubDate>
+      <guid>https://jonaseduardsen.github.io/project/sinet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

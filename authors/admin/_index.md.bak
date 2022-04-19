@@ -6,7 +6,7 @@ title: Jonas Eduardsen
 superuser: true
 
 # Role/position/tagline
-role: Professor of International Business
+role: Associate Professor of International Business
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,9 +18,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Firm Internationalization
+- International Performance
+- Cross-border E-commerce
+- Risk and Organizational Resilience
+- Implications of Digitalization on International Business
 
 # Education to show in About widget
 education:
@@ -70,8 +72,8 @@ email: ""
 highlight_name: true
 ---
 
-Jonas Eduardsen is an Associate Professor of International Business at Aalborg University Business School (Denmark), where he has been a faculty member since 2016. He completed his PhD in International Business at Aalborg University, where he focused on how decision-makers in small- and medium-sized firms perceive risk associated with doing business in foreign markets and the coping mechanisms used for dealing with these risks. 
+I am an Associate Professor of International Business at Aalborg University Business School (Denmark), where I have has been a faculty member since 2016. I completed my PhD in International Business at Aalborg University, where I focused on how decision-makers in small- and medium-sized firms perceive risk associated with doing business in foreign markets and the coping mechanisms used for dealing with these risks. 
 
-His research interests' centres on the internationalization of firms, with a specific focus on explaining firm’s internationalization behaviours, the internationalisation-performance relationship and providing suggestions to improve internationalisation performance.
+My research interests' centres on the internationalization of firms, with a specific focus on explaining firm’s internationalization behaviours, the internationalisation-performance relationship and providing suggestions to improve firms' internationalisation performance.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
