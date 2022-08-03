@@ -1,43 +1,37 @@
 ---
-title: Academy of International Business Conference 2022
-subtitle:
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-# Summary for listings and search engines
-summary: New research article accepted for publication in International Business Review.
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: "2022-07-06T10:00:00Z"
-
-# Date updated
-lastmod: "2022-07-06T10:00:00Z"
-
-# Is this an unpublished draft?
+title: "AIB 2022"
+subtitle: ""
+summary: "This week I will be participating in the annual Academy of International Business Conference in Miami, USA"
+authors: []
+tags: []
+categories: []
+date: 2022-07-06T15:09:29+02:00
+lastmod: 2022-07-06T15:09:29+02:00
+featured: false
 draft: false
 
-# Show this page in the Featured widget?
-featured: false
-
 # Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'Image credit: [**Florida International University**](https://news.fiu.edu/2022/fiu-business-hosts-worlds-premier-international-business-conference-july-5-9)'
+  caption: ""
   focal_point: ""
-  placement: 2
   preview_only: false
 
-authors:
-- admin
-
-tags:
-- Academic
-
-categories:
-- Research
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
 
-In the following days I will be participating in the annual Academy of International Business Conference in Miami, USA. The theme of this years conference is 'Beyond Diversity and Inclusion: Equity and Fairness in International Business'.
+Next week I will be participating in the annual Academy of International Business Conference in Miami, which is hosted by Florida International University. The theme this year is 'Beyond Diversity and Inclusion: Equity and Fairness in International Business'. Thus, there will be ample opportunity to discuss how IB scholars can increasingly integrate Equity and Fairness into IB research and the post-pandemic globalization.
 
-During the conference, I will be presenting some early-stage on cross-border e-commerce. In this study, I analyze the managerial perceptions of barriers to cross-border e-commerce using a sample of 2,478 European firms using Latent Profile Analysis. The study demonstrates that the sample of European firms can be classified into four distinct profiles (i.e. homogeneous subgroups) based on the perceived and experienced export barriers related to CBEC, highlighting the heterogeneity in the CBEC barriers experienced by firms. After exploring the impact of covariates on latent profile membership it was found that latent profile membership probabilities differed significantly across industries and countries, while firm size and firm experience appeared to be less relevant in predicting latent profile membership. Thus the results highlights the importance of the environmental context - in terms of industry and home country context - and underscore the potential importance of policy factors in addition to institutional factors. Thus, our results indicate that careful attention must be paid to the economic and regulatory factors that may affect the barriers related to CBEC adoption and diffusion across different countries. This is in line with previous earlier studies highlighting the significant impact of the national environment and policy as an important driver or barriers that can either facilitate or limit e-commerce growth
+During the conference, I will be presenting some preliminary findings from my research on cross-border e-commerce in European firms, where I explore heterogeneity in managerial perceptions of barriers to cross-border e-commerce across firms, industries, and countries.
+
+This will be the first time since 2019 in Copenhagen where the conference will take place physically.
+
+If you want to read more about the conference you can do so [here](https://www.aib.world/events/2022/)
